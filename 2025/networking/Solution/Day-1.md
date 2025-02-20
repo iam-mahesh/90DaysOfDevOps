@@ -81,8 +81,6 @@ UDP (Live streams, video calls – prioritizes speed over accuracy).
 
 👉 Example: When you send an email, the application layer (SMTP) handles it and sends it to the recipient’s inbox.
 
-
-
 **The TCP/IP Model (The Real-World Version)**
 The TCP/IP model is what we actually use today—it simplifies the OSI model into four layers instead of seven.
 
