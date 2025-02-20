@@ -28,6 +28,7 @@ The OSI model does the same thing—but for data traveling across the internet. 
 The TCP/IP model, on the other hand, is the simplified real-world version that powers the internet today.
 
 **The OSI Model (7 Layers Explained Simply)**
+
 1️⃣ **Physical Layer** – The Wires & Signals
 📌 What it does? It’s the actual hardware—cables, Wi-Fi signals, and radio waves—that send raw data (bits).
 
@@ -102,8 +103,11 @@ How This Works in Real Life (Example: Opening a Website)
 Let’s say you open Google.com on your browser. Here’s how the TCP/IP layers work together:
 
 1️⃣ Application Layer → Your browser sends an HTTP request.
+
 2️⃣ Transport Layer → TCP breaks the request into small packets.
+
 3️⃣ Internet Layer → The packets are sent to Google’s server using IP addresses.
+
 4️⃣ Network Access Layer → The request travels via Wi-Fi or Ethernet to reach the internet.
 
 Google’s server then sends back the webpage, and your browser displays it.
